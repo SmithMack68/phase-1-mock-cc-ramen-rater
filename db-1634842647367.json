@@ -1,19 +1,5 @@
-// write your code here
-const url = 'http://localhost:3000/ramens'
-//'http://localhost:3000/ramens/:id'
-const ramenMenu = document.createElement('div');
-const form = document.querySelector('#new-ramen')
-const ramenImg = document.createElement('img');
-const menuItem = document.create
-
-//attributes for image
-menuItem.id = `ramens-${ramens.id}`;
-
-//menu item name
-ramenName.textContent = ramens.name;
-
-
-const ramens = [
+{
+  "ramens": [
     {
       "id": 1,
       "name": "Shoyu Ramen",
@@ -55,33 +41,4 @@ const ramens = [
       "comment": "Perfect for a cold night."
     }
   ]
-
-
-
-//Fetches
-function getAllRamens(){
-    return fetch(url)
-    .then(resp => resp.json())
-    .then (renderAllRamens)
 }
-
-//set attributes for menu imgs
-
-//ramenImg.scr = 
-//Rendering
-function renderAllRamens(ramenArr){
-
-}
-
-
-
-
-
-//Initializers
-getAllRamens().then(renderAllRamens)
-
-
-
-
-
-//
