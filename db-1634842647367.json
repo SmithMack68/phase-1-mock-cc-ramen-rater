@@ -39,38 +39,6 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
-    },
-    {
-      "name": "Taco Ramen",
-      "restaurant": "King Wok",
-      "image": "",
-      "rating": "2",
-      "comment": "Yummy",
-      "id": 6
-    },
-    {
-      "name": "Taco Ramen",
-      "restaurant": "King Wok",
-      "image": "",
-      "rating": "2",
-      "comment": "Yummy",
-      "id": 7
-    },
-    {
-      "name": "Taco Ramen",
-      "restaurant": "King Wok",
-      "image": "",
-      "rating": "5",
-      "comment": "Who knew Tacos and Ramen? yummy",
-      "id": 8
-    },
-    {
-      "name": "Taco Ramen",
-      "restaurant": "King Wok",
-      "image": "https://unsplash.com/photos/qom5MPOER-I",
-      "rating": "5",
-      "comment": "Who knew Tacos and Ramen? yummy",
-      "id": 9
     }
   ]
 }
